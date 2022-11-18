@@ -1,4 +1,14 @@
-### Hi there 👋
+### 안녕하세욤👋
+> 백세희, 21살입니다!
+* 인문융합자율학부
+* 프론트엔드 공부
+
+
+### email
+tpgmlqor@gmail.com
+
+### Blog
+https://velog.io/@baeksehee
 
 <!--
 **baeksehee/baeksehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
