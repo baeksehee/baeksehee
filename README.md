@@ -3,6 +3,7 @@
 * 인문융합자율학부
 * 프론트엔드 공부
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
 
 ### email
 tpgmlqor@gmail.com
