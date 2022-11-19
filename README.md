@@ -4,10 +4,10 @@
 * 프론트엔드 공부
 
 
-### email
+### 📧Email
 tpgmlqor@gmail.com
 
-### Blog
+### 📑Blog
 https://velog.io/@baeksehee
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
