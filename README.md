@@ -5,7 +5,7 @@
 
 
 ### 📧Email
-Click [here](tpgmlqor@gmail.com)
+tpgmlqor@gmail.com
 
 ### 📑Blog
 Click [here](https://velog.io/@baeksehee)
