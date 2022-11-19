@@ -3,7 +3,6 @@
 * 인문융합자율학부
 * 프론트엔드 공부
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
 
 ### email
 tpgmlqor@gmail.com
@@ -11,6 +10,7 @@ tpgmlqor@gmail.com
 ### Blog
 https://velog.io/@baeksehee
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
 <!--
 **baeksehee/baeksehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
