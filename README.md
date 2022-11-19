@@ -5,10 +5,10 @@
 
 
 ### 📧Email
-tpgmlqor@gmail.com
+Click [here](tpgmlqor@gmail.com)
 
 ### 📑Blog
-https://velog.io/@baeksehee
+Click [here](https://velog.io/@baeksehee)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
