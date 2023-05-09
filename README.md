@@ -11,9 +11,6 @@ tpgmlqor@gmail.com
 
 ### 📑Blog
 Click [here](https://velog.io/@baeksehee)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeksehee&show_icons=true&theme=default)
 <!--
 **baeksehee/baeksehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
