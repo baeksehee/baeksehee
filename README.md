@@ -3,6 +3,16 @@
 
 ### 📑Blog
 Click [here](https://velog.io/@baeksehee)
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/baeksehee?pet-id=644359467950938315"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **baeksehee/baeksehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
